@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+# Kuepa Platform APP
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es una Aplicacion cliente para prueba tecnica de Kuepa EduTech la cual utiliza websockets para comunicacion con la API REST
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+Cada paso de la configuración se encuentra acontinuacion, por lo que solo es necesario clonar el proyecto y seguir cada paso.
+
+
+## Instalación y configuracion
+
+1. Clonar el archivo `.env.template` a un archivo llamado `.env` y configurar las variables de entorno.
+2. Ejecutar `npm install` para instalar las dependencias.
+5. Ejecutar `npm run dev` para levantar el proyecto en modo desarrollo.
